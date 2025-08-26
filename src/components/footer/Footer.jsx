@@ -1,8 +1,8 @@
 import React from 'react';
 import styles from './Footer.module.scss';
 import { Link } from 'react-router-dom'; // If you use React Router
-import  VkIcon  from '../../assets/images/vk.png'; // Assuming you have SVG icons
-import InstagramIcon  from '../../assets/images/instagram.png';
+import  VkIcon  from '../../assets/images/VK.png'; // Assuming you have SVG icons
+import InstagramIcon  from '../../assets/images/Instagram.png';
 import   Telegramm  from '../../assets/images/Telegram.png';
 import  WhatsAppIcon  from '../../assets/images/Whatsapp.png';
 
